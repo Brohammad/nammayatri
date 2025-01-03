@@ -5,7 +5,7 @@
 ![Alt text](docs/images/drivers-with-vehicles.png)
 
 ## 🌟 Vision
-Namma Yatri aims to empower service providers with a high-tech, cost-effective app and open data platform. Our vision is centered on the following principles:
+Namma Yatri targets to empower service providers with a high-tech, cost-effective app and open data platform. Our vision is centered on the following principles:
 
 1. **Zero Commission**: Ensuring no commission fees for drivers, promoting fair earnings and economic empowerment for service providers.
 2. **Open**: Utilizing open data platforms, open code, and open networks to foster transparency, innovation, and collaboration within the community.
@@ -34,7 +34,7 @@ Customers shall participate in community efforts by using the open system, provi
 Mobility is an engineering problem, and technology can make it more efficient, reliable, and sustainable. We need both tech innovations and human involvement. Empathy and support for both citizens and drivers are crucial.
 
 ### 🌍 Sustainable Growth
-We aim to solve complex, long-term problems sustainably, avoiding unsustainable tactics like discounts and incentives. We pursue initiatives that are financially, environmentally, and psychologically sustainable, promoting shared mobility and efficient public transportation to reduce traffic, cost, and carbon emissions.
+We aim to solve complex, long-term problems sustainably, avoiding unsustainable tactics like discounts and incentives. We pursue initiatives that are financially, environmentally, and psychologically sustainable, encouraging shared mobility and optimizing public transportation to minimize traffic congestion, reduce costs, and lower carbon emissions.
 
 ## ❓ Why Solve This Problem?
 Mobility is critical to economic growth, social progress, and individual well-being. People's livelihoods depend on mobility, but current systems could be more efficient, sustainable, and accessible to the masses. To improve this, mobility should be community-driven, open, tech-enabled, and shared.
