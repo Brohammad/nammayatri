@@ -68,7 +68,7 @@ Happy Contributing
 
 ## ✨ Thanks to all contributors
 
-Thank you for your support in nammayatri's growth. Keep up the great work! 🥂
+Thank you for your support in nammayatri's growth. Keep up the great work! 
 
 <a href="https://github.com/nammayatri/nammayatri/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=nammayatri/nammayatri" alt="Contributors"/>
