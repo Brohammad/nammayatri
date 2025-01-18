@@ -7,7 +7,7 @@
 ## 🌟 Vision
 Namma Yatri aims to empower service providers with a high-tech, cost-effective app and open data platform. Our vision is centered on the following principles:
 
-1. **Zero Commission**: Ensuring no commission fees] for drivers, promoting fair earnings and economic empowerment for service providers.
+1. **Zero Commission**: Ensuring no commission fees for drivers, promoting just earnings and economic empowerment for service providers.
 2. **Open**: Utilizing open data platforms, open code, and open networks to foster transparency, innovation, and collaboration within the community.
 3. **Optimize**: Achieve population scale growth with utility-like pricing by continuously optimizing maps, cloud, and development costs, all while maintaining high reliability and rich user experience.
 4. **Multimodal**: Supporting various modes of transport to provide comprehensive, integrated mobility solutions for a seamless user experience.
